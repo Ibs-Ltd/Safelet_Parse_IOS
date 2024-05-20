@@ -1,0 +1,17 @@
+"NSCameraUsageDescription" = "Damit können Sie über die App ein Foto machen";
+"NSLocationWhenInUseUsageDescription" = "Damit können Ihre Beschützer in einem Notfall sehen, wo Sie sind";
+"NSPhotoLibraryUsageDescription" = "Damit können Sie ein Foto aus Ihrer Galerie auswählen";
+"NSMicrophoneUsageDescription" = "Das erlaubt der App, eine Tonaufnahme zu starten, wenn Sie ein Alarmsignal versenden";
+"NSContactsUsageDescription" = "Damit können Sie nach Beschützern suchen oder Ihre Telefonkontakte einladen, Safelet zu benutzen";
+/*
+ InfoPlist.strings
+ Safelet
+ 
+ Created by Alex Motoc on 16/11/2016.
+ Copyright © 2016 X2 Mobile. All rights reserved.
+ */
+
+"NSBluetoothPeripheralUsageDescription" = "Damit kann die App mit Ihrem Safelet-Armband kommunizieren";
+"NSLocationAlwaysUsageDescription" = "Damit können Ihre Beschützer in einem Notfall sehen, wo Sie sind";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Damit können Ihre Beschützer in einem Notfall sehen, wo Sie sind";
+"NSBluetoothAlwaysUsageDescription" = "Damit kann die App mit Ihrem Safelet-Armband kommunizieren";

@@ -1,0 +1,287 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AMSlideMenu (1.5.4)
+  - APAddressBook (0.3.2):
+    - APAddressBook/Core (= 0.3.2)
+  - APAddressBook/Core (0.3.2)
+  - Bolts/Tasks (1.9.1)
+  - Firebase/Analytics (8.7.0):
+    - Firebase/Core
+  - Firebase/Auth (8.7.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 8.7.0)
+  - Firebase/Core (8.7.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (~> 8.7.0)
+  - Firebase/CoreOnly (8.7.0):
+    - FirebaseCore (= 8.7.0)
+  - Firebase/Crashlytics (8.7.0):
+    - Firebase/CoreOnly
+    - FirebaseCrashlytics (~> 8.7.0)
+  - Firebase/Database (8.7.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 8.7.0)
+  - FirebaseAnalytics (8.7.0):
+    - FirebaseAnalytics/AdIdSupport (= 8.7.0)
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/MethodSwizzler (~> 7.4)
+    - GoogleUtilities/Network (~> 7.4)
+    - "GoogleUtilities/NSData+zlib (~> 7.4)"
+    - nanopb (~> 2.30908.0)
+  - FirebaseAnalytics/AdIdSupport (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleAppMeasurement (= 8.7.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/MethodSwizzler (~> 7.4)
+    - GoogleUtilities/Network (~> 7.4)
+    - "GoogleUtilities/NSData+zlib (~> 7.4)"
+    - nanopb (~> 2.30908.0)
+  - FirebaseAuth (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GTMSessionFetcher/Core (~> 1.5)
+  - FirebaseCore (8.7.0):
+    - FirebaseCoreDiagnostics (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Logger (~> 7.4)
+  - FirebaseCoreDiagnostics (8.7.0):
+    - GoogleDataTransport (~> 9.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Logger (~> 7.4)
+    - nanopb (~> 2.30908.0)
+  - FirebaseCrashlytics (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleDataTransport (~> 9.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - nanopb (~> 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - FirebaseDatabase (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - leveldb-library (~> 1.22)
+  - FirebaseInstallations (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/UserDefaults (~> 7.4)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - FormatterKit (1.9.0):
+    - FormatterKit/AddressFormatter (= 1.9.0)
+    - FormatterKit/ArrayFormatter (= 1.9.0)
+    - FormatterKit/ColorFormatter (= 1.9.0)
+    - FormatterKit/LocationFormatter (= 1.9.0)
+    - FormatterKit/NameFormatter (= 1.9.0)
+    - FormatterKit/OrdinalNumberFormatter (= 1.9.0)
+    - FormatterKit/Resources (= 1.9.0)
+    - FormatterKit/TimeIntervalFormatter (= 1.9.0)
+    - FormatterKit/UnitOfInformationFormatter (= 1.9.0)
+    - FormatterKit/URLRequestFormatter (= 1.9.0)
+  - FormatterKit/AddressFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/ArrayFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/ColorFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/LocationFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/NameFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/OrdinalNumberFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/Resources (1.9.0)
+  - FormatterKit/TimeIntervalFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/UnitOfInformationFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FormatterKit/URLRequestFormatter (1.9.0):
+    - FormatterKit/Resources
+  - FreeStreamer (3.9.3):
+    - Reachability (~> 3.0)
+  - GoogleAppMeasurement (8.7.0):
+    - GoogleAppMeasurement/AdIdSupport (= 8.7.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/MethodSwizzler (~> 7.4)
+    - GoogleUtilities/Network (~> 7.4)
+    - "GoogleUtilities/NSData+zlib (~> 7.4)"
+    - nanopb (~> 2.30908.0)
+  - GoogleAppMeasurement/AdIdSupport (8.7.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/MethodSwizzler (~> 7.4)
+    - GoogleUtilities/Network (~> 7.4)
+    - "GoogleUtilities/NSData+zlib (~> 7.4)"
+    - nanopb (~> 2.30908.0)
+  - GoogleDataTransport (9.1.0):
+    - GoogleUtilities/Environment (~> 7.2)
+    - nanopb (~> 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleMaps (5.1.0):
+    - GoogleMaps/Maps (= 5.1.0)
+  - GoogleMaps/Base (5.1.0)
+  - GoogleMaps/Maps (5.1.0):
+    - GoogleMaps/Base
+  - GoogleUtilities/AppDelegateSwizzler (7.5.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.5.2):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.5.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.5.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.5.2)"
+  - GoogleUtilities/Reachability (7.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.5.2):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.7.0)
+  - iOSDFULibrary (4.11.0):
+    - ZIPFoundation (= 0.9.11)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - leveldb-library (1.22.1)
+  - libPhoneNumber-iOS (0.9.15)
+  - MBProgressHUD (1.2.0)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - Parse (1.19.2):
+    - Parse/Core (= 1.19.2)
+  - Parse/Core (1.19.2):
+    - Bolts/Tasks (= 1.9.1)
+  - PromisesObjC (2.0.0)
+  - Pulley (2.9.1)
+  - Reachability (3.2)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - TPKeyboardAvoiding (1.3.5)
+  - YmsCoreBluetooth (1.10.0)
+  - Zip (1.1.0)
+  - ZIPFoundation (0.9.11)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - AMSlideMenu (~> 1.5.3)
+  - APAddressBook
+  - Firebase/Analytics
+  - Firebase/Auth
+  - Firebase/Core
+  - Firebase/Crashlytics
+  - Firebase/Database
+  - FormatterKit (~> 1.8)
+  - FreeStreamer (~> 3.5)
+  - GoogleMaps
+  - iOSDFULibrary
+  - JSQMessagesViewController
+  - libPhoneNumber-iOS
+  - MBProgressHUD
+  - Parse
+  - Pulley
+  - SDWebImage
+  - TPKeyboardAvoiding
+  - YmsCoreBluetooth
+  - Zip (~> 1.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AMSlideMenu
+    - APAddressBook
+    - Bolts
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseCrashlytics
+    - FirebaseDatabase
+    - FirebaseInstallations
+    - FormatterKit
+    - FreeStreamer
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleMaps
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - iOSDFULibrary
+    - JSQMessagesViewController
+    - JSQSystemSoundPlayer
+    - leveldb-library
+    - libPhoneNumber-iOS
+    - MBProgressHUD
+    - nanopb
+    - Parse
+    - PromisesObjC
+    - Pulley
+    - Reachability
+    - SDWebImage
+    - TPKeyboardAvoiding
+    - YmsCoreBluetooth
+    - Zip
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AMSlideMenu: 8571937703d2b8e187b22c1416be4cafc3532a11
+  APAddressBook: e68ecaf95f2c323b625ae585a0d25fe505291286
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  Firebase: bc9325d5ee2041524bac78a5213d0e530c651309
+  FirebaseAnalytics: 52768800c2add1d84b751420cb4caaf8195f2c41
+  FirebaseAuth: 2e7d029977648c67a5d51a263d4cbab76d34cf12
+  FirebaseCore: f4804c1d3f4bbbefc88904d15653038f2c99ddf7
+  FirebaseCoreDiagnostics: b63732f581a1c6a453ec7241f9ab60b3a5bd3450
+  FirebaseCrashlytics: 6fac03d1eef054833b71c929c93ab95c12989728
+  FirebaseDatabase: afc82291f9ed94ff949cec1b9505e8c3b944bc0f
+  FirebaseInstallations: ede6fb72bb6337914e5888b399271259d0c4910c
+  FormatterKit: 184db51bf120b633693a73624a4cede89ec51a41
+  FreeStreamer: 8d52b299dc97e557ff156480bf86a666165bd1e5
+  GoogleAppMeasurement: 2be61ce546ad074dbe4dd545f222ac6033bb1d9e
+  GoogleDataTransport: 85fd18ff3019bb85d3f2c551d04c481dedf71fc9
+  GoogleMaps: 086ae1dab659eaa7339bdb30fc88e2f44e7c597c
+  GoogleUtilities: 8de2a97a17e15b6b98e38e8770e2d129a57c0040
+  GTMSessionFetcher: 43748f93435c2aa068b1cbe39655aaf600652e91
+  iOSDFULibrary: ca2a4da1f1680fe4957b0a33ad605c9e10f7ae7c
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  leveldb-library: 50c7b45cbd7bf543c81a468fe557a16ae3db8729
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  Parse: 081fb8755c3000fd11df817eec235def233d0af3
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  Pulley: a4c28c930958f42978d69631000bc1abb82cb232
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  TPKeyboardAvoiding: d55b3ea7b362540af8fcf36aa3ed2e87bf210cc6
+  YmsCoreBluetooth: 394c01cfffd2ff17837d979fc6eebd96205059d6
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+  ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
+
+PODFILE CHECKSUM: a0e361649f19c7d8608c970585bcc6204c5bc974
+
+COCOAPODS: 1.10.2

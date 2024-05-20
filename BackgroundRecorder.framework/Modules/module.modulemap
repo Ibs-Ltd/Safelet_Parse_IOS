@@ -1,0 +1,6 @@
+framework module BackgroundRecorder {
+  umbrella header "BackgroundRecorder.h"
+
+  export *
+  module * { export * }
+}

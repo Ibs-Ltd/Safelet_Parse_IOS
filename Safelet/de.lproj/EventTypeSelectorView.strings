@@ -1,0 +1,9 @@
+
+/* Class = "UISegmentedControl"; 7wj-2l-URN.segmentTitles[0] = "Alarms"; ObjectID = "7wj-2l-URN"; */
+"7wj-2l-URN.segmentTitles[0]" = "Alarme";
+
+/* Class = "UISegmentedControl"; 7wj-2l-URN.segmentTitles[1] = "Invitations"; ObjectID = "7wj-2l-URN"; */
+"7wj-2l-URN.segmentTitles[1]" = "Einladungen";
+
+/* Class = "UISegmentedControl"; 7wj-2l-URN.segmentTitles[2] = "Check-Ins"; ObjectID = "7wj-2l-URN"; */
+"7wj-2l-URN.segmentTitles[2]" = "Anmeldungen";

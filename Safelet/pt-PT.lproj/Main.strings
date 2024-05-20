@@ -1,0 +1,480 @@
+
+/* Class = "UINavigationItem"; title = "My profile"; ObjectID = "0QA-Kb-Gx5"; */
+"0QA-Kb-Gx5.title" = "Perfil";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "0YO-AB-dHu"; */
+"0YO-AB-dHu.text" = "Título";
+
+
+/* Class = "UILabel"; text = "<descriptionLabel>"; ObjectID = "31R-3Z-FoQ"; */
+"31R-3Z-FoQ.text" = "<descriptionLabel>";
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "3sa-mX-1TW"; */
+"3sa-mX-1TW.placeholder" = "Nome";
+
+/* Class = "UITextField"; placeholder = "Description here"; ObjectID = "0UI-Cx-vJx"; */
+"0UI-Cx-vJx.placeholder" = "Descrição aqui";
+
+/* Class = "UIButton"; normalTitle = "Change email"; ObjectID = "1Ms-1T-g8g"; */
+"1Ms-1T-g8g.normalTitle" = "Alterar email";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "4ZP-V4-XGu"; */
+"4ZP-V4-XGu.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "4fV-b9-B4r"; */
+"4fV-b9-B4r.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "TEST"; ObjectID = "437-sX-I8l"; */
+"437-sX-I8l.text" = "TESTE";
+
+/* Class = "UIButton"; normalTitle = "See details"; ObjectID = "56x-79-4ua"; */
+"56x-79-4ua.normalTitle" = "Ver detalhes";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "5G6-8A-9F6"; */
+"5G6-8A-9F6.text" = "Subtítulo";
+
+/* Class = "UINavigationItem"; title = "Events"; ObjectID = "79X-h3-tWZ"; */
+"79X-h3-tWZ.title" = "Eventos";
+
+/* Class = "UINavigationItem"; title = "Guardian Network"; ObjectID = "5ix-Ye-asj"; */
+"5ix-Ye-asj.title" = "Rede de Guardiões";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "6W3-0a-2mP"; */
+"6W3-0a-2mP.text" = "Data";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "7i0-nk-qql"; */
+"7i0-nk-qql.normalTitle" = "Entrar";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "8X6-ak-O3V"; */
+"8X6-ak-O3V.normalTitle" = "Criar conta";
+
+/* Class = "UILabel"; text = "Please fill in your name and phone number"; ObjectID = "A9d-sO-fbq"; */
+"A9d-sO-fbq.text" = "Por favor preencha o seu nome e número de telefone";
+
+/* Class = "UIButton"; normalTitle = "Deny"; ObjectID = "9JA-GR-GFA"; */
+"9JA-GR-GFA.normalTitle" = "Negar";
+
+/* Class = "UIButton"; normalTitle = "Reset password"; ObjectID = "AIU-f3-9qk"; */
+"AIU-f3-9qk.normalTitle" = "Resetar senha";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "AWd-rw-Ulj"; */
+"AWd-rw-Ulj.normalTitle" = "Próximo";
+
+/* Class = "UILabel"; text = "Stop reason"; ObjectID = "Ahq-D3-GpP"; */
+"Ahq-D3-GpP.text" = "Stop reason";
+
+/* Class = "UILabel"; text = "➢    Hard reset your Safelet bracelet"; ObjectID = "B0f-OT-rmn"; */
+"B0f-OT-rmn.text" = "âž¢    Resetar a sua pulseira Safelet";
+
+/* Class = "UIBarButtonItem"; title = "Stop Alarm"; ObjectID = "BPu-3o-uoq"; */
+"BPu-3o-uoq.title" = "Parar Alarme";
+
+/* Class = "UILabel"; text = "I'm on my way"; ObjectID = "Ajl-wX-tCr"; */
+"Ajl-wX-tCr.text" = "Estou a caminho";
+
+/* Class = "UILabel"; text = "Your Safelet and phone are now connected."; ObjectID = "BNt-ip-Tmp"; */
+"BNt-ip-Tmp.text" = "Seu Safelet e seu telefone estão agora conectados.";
+
+/* Class = "UITextField"; placeholder = "Current password"; ObjectID = "BS1-lt-htg"; */
+"BS1-lt-htg.placeholder" = "Senha atual";
+
+/* Class = "UIButton"; normalTitle = "Change photo"; ObjectID = "CCP-Fx-px8"; */
+"CCP-Fx-px8.normalTitle" = "Alterar foto";
+
+/* Class = "UILabel"; text = "Show all Safelet device information"; ObjectID = "C5f-SJ-Rqi"; */
+"C5f-SJ-Rqi.text" = "Mostrar toda a informação Safelet do dispositivo";
+
+/* Class = "UILabel"; text = "test5@email.com"; ObjectID = "CO4-q7-aXd"; */
+"CO4-q7-aXd.text" = "teste5@email.com";
+
+/* Class = "UILabel"; text = "17-27 Strada Ploiesti, Cluj-Napoca Cluj"; ObjectID = "Caa-mD-KbO"; */
+"Caa-mD-KbO.text" = "17-27 Strada Ploiesti, Cluj-Napoca Cluj";
+
+/* Class = "UIButton"; normalTitle = "No, thanks"; ObjectID = "Cbd-NZ-Dkg"; */
+"Cbd-NZ-Dkg.normalTitle" = "Não, obrigado";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "DRL-To-ZWG"; */
+"DRL-To-ZWG.normalTitle" = "Entrar";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "Dne-Vz-p4Z"; */
+"Dne-Vz-p4Z.placeholder" = "Nova senha";
+
+/* Class = "UIViewController"; title = "My Connections"; ObjectID = "Drn-Og-cuW"; */
+"Drn-Og-cuW.title" = "Rede de segurança";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "EFG-3Z-mrb"; */
+"EFG-3Z-mrb.text" = "Nome:";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "E35-2j-uFC"; */
+"E35-2j-uFC.text" = "00:00";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "DyN-Lo-1aH"; */
+"DyN-Lo-1aH.text" = "0";
+
+/* Class = "UILabel"; text = "Andrew Anthony"; ObjectID = "E4c-pR-5KT"; */
+"E4c-pR-5KT.text" = "Andrew Anthony";
+
+/* Class = "UILabel"; text = "You accepted"; ObjectID = "Ezu-Hl-bbp"; */
+"Ezu-Hl-bbp.text" = "Você aceitou";
+
+/* Class = "UIButton"; normalTitle = "Change name"; ObjectID = "EqM-Tj-GKU"; */
+"EqM-Tj-GKU.normalTitle" = "Alterar nome";
+
+/* Class = "UIButton"; normalTitle = "Play recording"; ObjectID = "F5d-xB-2vH"; */
+"F5d-xB-2vH.normalTitle" = "Rodar gravação";
+
+/* Class = "UIButton"; normalTitle = "+1"; ObjectID = "FZL-Eb-fk7"; */
+"FZL-Eb-fk7.normalTitle" = "+1";
+
+/* Class = "UIButton"; disabledTitle = "No recording available"; ObjectID = "F5d-xB-2vH"; */
+"F5d-xB-2vH.disabledTitle" = "Gravação não disponível";
+
+/* Class = "UILabel"; text = "<option>"; ObjectID = "FIV-Bj-IDN"; */
+"FIV-Bj-IDN.text" = "<option>";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "G9y-F2-dhL"; */
+"G9y-F2-dhL.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "E-mail:"; ObjectID = "Gkm-aI-1ce"; */
+"Gkm-aI-1ce.text" = "E-mail:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Faj-Se-O9G"; */
+"Faj-Se-O9G.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "<titleLabel>"; ObjectID = "HDn-XR-cwo"; */
+"HDn-XR-cwo.text" = "<titleLabel>";
+
+/* Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "Fm7-2J-iAH"; */
+"Fm7-2J-iAH.placeholder" = "Repetir senha";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Hfs-Au-Ef6"; */
+"Hfs-Au-Ef6.placeholder" = "Senha";
+
+/* Class = "UINavigationItem"; title = "Phone contacts"; ObjectID = "InN-MC-JhY"; */
+"InN-MC-JhY.title" = "Contatos do Telefone";
+
+/* Class = "UINavigationItem"; title = "Select country code"; ObjectID = "Ixm-9b-6My"; */
+"Ixm-9b-6My.title" = "Selecionar código do país";
+
+/* Class = "UILabel"; text = "Please join the Guardian Network and receive alerts when someone needs your help"; ObjectID = "JgO-GU-Ocx"; */
+"JgO-GU-Ocx.text" = "Por favor, junte-se a Rede de Guardiões e receba alertas quando alguém precisar da sua ajuda";
+
+/* Class = "UIButton"; normalTitle = "+ Prefix"; ObjectID = "JGk-Oh-JY9"; */
+"JGk-Oh-JY9.normalTitle" = "+ Prefixo";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "L6j-Yb-YVb"; */
+"L6j-Yb-YVb.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Please press both buttons on the Safelet at the same time to make Safelet visible for the app."; ObjectID = "L3o-R2-eCL"; */
+"L3o-R2-eCL.text" = "Por favor, pressione o botão na pulseira SOS.";
+
+/* Class = "UILabel"; text = "Safelet Firmware Update"; ObjectID = "L7F-Xl-eYQ"; */
+"L7F-Xl-eYQ.text" = "Atualização de Firmware Safelet";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "Lj0-De-0tL"; */
+"Lj0-De-0tL.normalTitle" = "Aceitar";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Lit-2m-UVJ"; */
+"Lit-2m-UVJ.normalTitle" = "Fechar";
+
+/* Class = "UILabel"; text = "We believe 'Safety is what we do for each other'. If you want to either receive help from Guardians near your location, or you want to give help as a Guardian, join the Safelet Guardian Network now."; ObjectID = "L0P-Yk-ifj"; */
+"L0P-Yk-ifj.text" = "Nós acreditamos que 'Segurança é o que fazemos um pelo outro'. Se você deseja receber ajuda de Guardiões próximos a sua localização, ou deseja ajudar os outros como Guardião, entre na Rede de Guardiões Safelet agora mesmo.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Mma-gd-wEM"; */
+"Mma-gd-wEM.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "MFE-uc-URk"; */
+"MFE-uc-URk.normalTitle" = "Próximo";
+
+/* Class = "UINavigationItem"; title = "My Connections"; ObjectID = "NWs-SI-daI"; */
+"NWs-SI-daI.title" = "Rede de segurança";
+
+/* Class = "UILabel"; text = "SAFELET GUARDIAN\nNETWORK"; ObjectID = "NOq-S9-N9Z"; */
+"NOq-S9-N9Z.text" = "\nREDE DE GUARDIÕES SAFELET";
+
+/* Class = "UILabel"; text = "Status: Scanning..."; ObjectID = "MqP-Wl-dLw"; */
+"MqP-Wl-dLw.text" = "Status: Escaneando...";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "OjD-1r-WaB"; */
+"OjD-1r-WaB.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "If you no longer want to be part of the Safelet Guardian Network, please tap the button below."; ObjectID = "Nkl-Lo-ekq"; */
+"Nkl-Lo-ekq.text" = "Se você não deseja mais fazer parte da Rede de Guardiões Safelet, por favor, aperte no botão abaixo.";
+
+/* Class = "UILabel"; text = "ALARM"; ObjectID = "OkN-V2-B5e"; */
+"OkN-V2-B5e.text" = "ALARME";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "Oqe-q1-AVk"; */
+"Oqe-q1-AVk.text" = "ENTRAR";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "OwB-xx-jyR"; */
+"OwB-xx-jyR.title" = "Voltar";
+
+/* Class = "UILabel"; text = "X2Mobile"; ObjectID = "QL0-Kp-cux"; */
+"QL0-Kp-cux.text" = "X2Mobile";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "Rk8-Yc-NSm"; */
+"Rk8-Yc-NSm.text" = "Telefone:";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "QDb-0z-Cca"; */
+"QDb-0z-Cca.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "Sas-A5-4iP"; */
+"Sas-A5-4iP.text" = "Eventos";
+
+/* Class = "UILabel"; text = "Upload profile picture"; ObjectID = "Rr1-Hj-wgj"; */
+"Rr1-Hj-wgj.text" = "Carregar foto do perfil";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "T6J-XH-ryh"; */
+"T6J-XH-ryh.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "TAx-7C-DSh"; */
+"TAx-7C-DSh.normalTitle" = "Voltar";
+
+/* Class = "UILabel"; text = "WELCOME TO THE SAFELET\nGUARDIAN NETWORK"; ObjectID = "SZN-Y7-5ZA"; */
+"SZN-Y7-5ZA.text" = "BEM-VINDO A \nREDE DE GUARDIÕES SAFELET";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "TeD-78-Qjv"; */
+"TeD-78-Qjv.text" = "Senha:";
+
+/* Class = "UITableViewSection"; headerTitle = "Safelet"; ObjectID = "UPc-FH-dVx"; */
+"UPc-FH-dVx.headerTitle" = "Safelet";
+
+/* Class = "UIButton"; normalTitle = "ALARM"; ObjectID = "UbU-51-waX"; */
+"UbU-51-waX.normalTitle" = "Check In";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "WaT-hS-NX7"; */
+"WaT-hS-NX7.normalTitle" = "Próximo";
+
+/* Class = "UILabel"; text = "The following information is used by guardians and authorities during an emergency. Please ensure this information is accurate!"; ObjectID = "Vh9-bp-09U"; */
+"Vh9-bp-09U.text" = "As seguintes informações são utilizadas por guardiões e autoridades durante uma emergência. Por favor, tenha certeza de que essas informações são precisas!";
+
+/* Class = "UINavigationItem"; title = "Alarm"; ObjectID = "Vd5-6c-pdZ"; */
+"Vd5-6c-pdZ.title" = "Alarme";
+
+/* Class = "UINavigationItem"; title = "Check-in details"; ObjectID = "WTD-uZ-uBm"; */
+"WTD-uZ-uBm.title" = "Detalhes do check-in";
+
+/* Class = "UILabel"; text = "Alex checked in last month"; ObjectID = "WnK-ru-0a9"; */
+"WnK-ru-0a9.text" = "Alex realizou checked in mês passado";
+
+/* Class = "UILabel"; text = "17-27 Strada Ploiesti, Cluj-Napoca Cluj"; ObjectID = "Wdd-eE-UBb"; */
+"Wdd-eE-UBb.text" = "17-27 Strada Ploiesti, Cluj-Napoca Cluj";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "XfD-Dn-dPi"; */
+"XfD-Dn-dPi.normalTitle" = "Esqueceu sua senha?";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-3"; ObjectID = "Xud-gU-1Q0"; */
+"Xud-gU-1Q0.headerTitle" = "Sessão-3";
+
+/* Class = "UITextField"; placeholder = "Telephone number"; ObjectID = "YaN-XM-IEy"; */
+"YaN-XM-IEy.placeholder" = "Número de telefone";
+
+/* Class = "UIButton"; normalTitle = "Ignore"; ObjectID = "Ypb-1e-s38"; */
+"Ypb-1e-s38.normalTitle" = "Ignorar";
+
+
+/* Class = "UILabel"; text = "Log Out"; ObjectID = "aA3-A1-d1O"; */
+"aA3-A1-d1O.text" = "Sair";
+/* Class = "UIButton"; normalTitle = "Change phone number"; ObjectID = "aRa-ym-ZfH"; */
+"aRa-ym-ZfH.normalTitle" = "Alterar o número de telefone";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "aGY-4M-woc"; */
+"aGY-4M-woc.placeholder" = "Nome";
+
+/* Class = "UIButton"; normalTitle = "Leave the Safelet Guardian Network"; ObjectID = "ayN-l6-DnJ"; */
+"ayN-l6-DnJ.normalTitle" = "Deixar Rede de Guardiões Safelet";
+
+/* Class = "UILabel"; text = "asdaasd"; ObjectID = "b9e-UN-NPY"; */
+"b9e-UN-NPY.text" = "asdaasd";
+
+/* Class = "UILabel"; text = "Options"; ObjectID = "az8-sv-T39"; */
+"az8-sv-T39.text" = "Definições";
+
+/* Class = "UINavigationItem"; title = "Edit tel no."; ObjectID = "bRU-VM-oyd"; */
+"bRU-VM-oyd.title" = "Editar número de telefone";
+
+/* Class = "UILabel"; text = "Welcome. This wizard will pair your Safelet to your phone."; ObjectID = "c2F-oL-9Ya"; */
+"c2F-oL-9Ya.text" = "Bem-vindo. Essa plataforma vai parear o seu Safelet com seu telefone.";
+
+/* Class = "UILabel"; text = "CREATE ACCOUNT"; ObjectID = "cQX-eX-3Ez"; */
+"cQX-eX-3Ez.text" = "CRIAR CONTA";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "cXj-xA-Nnf"; */
+"cXj-xA-Nnf.normalTitle" = "Esqueceu sua senha?";
+
+/* Class = "UINavigationItem"; title = "Edit my password"; ObjectID = "ccA-mc-1iW"; */
+"ccA-mc-1iW.title" = "Editar minha senha";
+
+/* Class = "UILabel"; text = "Check in"; ObjectID = "cfy-T9-S2u"; */
+"cfy-T9-S2u.text" = "Check in";
+
+/* Class = "UILabel"; text = "TEST7\nNEEDS YOUR HELP!"; ObjectID = "ccX-jo-thf"; */
+"ccX-jo-thf.text" = "TESTE7\nPRECISA DA SUA AJUDA!";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "cu4-Cg-3lx"; */
+"cu4-Cg-3lx.normalTitle" = "Criar conta";
+
+/* Class = "UITableViewSection"; headerTitle = "Version"; ObjectID = "chs-HZ-X5n"; */
+"chs-HZ-X5n.headerTitle" = "Versão";
+
+/* Class = "UILabel"; text = "message"; ObjectID = "dRu-Ud-Ht7"; */
+"dRu-Ud-Ht7.text" = "mensagem";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cti-cj-03Q"; */
+"cti-cj-03Q.text" = "Título";
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD"; ObjectID = "djm-3F-j0k"; */
+"djm-3F-j0k.text" = "ESQUECI A SENHA";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "eVy-T3-eHo"; */
+"eVy-T3-eHo.normalTitle" = "Entrar";
+
+/* Class = "UINavigationItem"; title = "Edit my name"; ObjectID = "fh1-SQ-mQn"; */
+"fh1-SQ-mQn.title" = "Editar meu nome";
+
+/* Class = "UILabel"; text = "My Connections"; ObjectID = "eLf-Dz-OlU"; */
+"eLf-Dz-OlU.text" = "Rede de segurança";
+
+/* Class = "UILabel"; text = "➢    Disable and re-enable bluetooth on your phone"; ObjectID = "fFJ-u4-ndP"; */
+"fFJ-u4-ndP.text" = "âž¢    Desabilitar e habilitar novamente o bluetooth no seu telefone";
+
+/* Class = "UITextField"; placeholder = "address@email.com"; ObjectID = "eWJ-Cf-6Gb"; */
+"eWJ-Cf-6Gb.placeholder" = "endereço@email.com";
+
+/* Class = "UILabel"; text = "Guardian Network"; ObjectID = "g6m-9v-YGi"; */
+"g6m-9v-YGi.text" = "Rede de Guardiões";
+
+/* Class = "UILabel"; text = "Safelet Information"; ObjectID = "g8H-OI-Bvl"; */
+"g8H-OI-Bvl.text" = "Informações Safelet";
+
+/* Class = "UILabel"; text = "Invite Guardians"; ObjectID = "eeJ-8x-2mr"; */
+"eeJ-8x-2mr.text" = "Convidar Guardiões";
+
+/* Class = "UILabel"; text = "Check for new Safelet Firmware updates"; ObjectID = "glZ-ik-hxq"; */
+"glZ-ik-hxq.text" = "Verifique as atualizações do seu Firmware Safelet";
+
+/* Class = "UILabel"; text = "Safelet Firmware Update"; ObjectID = "h3G-39-gIZ"; */
+"h3G-39-gIZ.text" = "Atualizações Firmware Safelet";
+
+/* Class = "UINavigationItem"; title = "Check in"; ObjectID = "iAQ-LU-StU"; */
+"iAQ-LU-StU.title" = "Check in";
+
+/* Class = "UILabel"; text = "➢    Restart the app or the phone"; ObjectID = "hDh-OB-Rj9"; */
+"hDh-OB-Rj9.text" = "âž¢    Restaurar o app no seu celular";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iOc-Fx-dBu"; */
+"iOc-Fx-dBu.text" = "Marca";
+
+/* Class = "UILabel"; text = "YOU HAVE\nNO GUARDIANS"; ObjectID = "jXS-oZ-fjd"; */
+"jXS-oZ-fjd.text" = "VOCÊ \nNÃO POSSUI GUARDIÕES";
+
+/* Class = "UILabel"; text = "X2Mobile invited you to be his guardian 2 minutes ago"; ObjectID = "iwn-x9-bC7"; */
+"iwn-x9-bC7.text" = "X2Mobile convidou você para ser seu guardião há 2 minutos atrás";
+
+/* Class = "UILabel"; text = "Failed to connect to the Safelet bracelet. Perform one of the actions below then attempt to re-connect by selecting Connect Safelet from the menu:"; ObjectID = "ire-Fx-MMf"; */
+"ire-Fx-MMf.text" = "Falha ao conectar com a pulseira Safelet. Realize uma das ações abaixo e tente reconectar selecionando Conectar ao Sefelet no menu:";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "iWe-AP-jZ5"; */
+"iWe-AP-jZ5.normalTitle" = "Alterar a senha";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "kFT-Xr-dHp"; */
+"kFT-Xr-dHp.text" = "Perfil";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "lSl-S4-Ltn"; */
+"lSl-S4-Ltn.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kY1-zh-DFw"; */
+"kY1-zh-DFw.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "SONIA JAMES"; ObjectID = "low-F3-Sg4"; */
+"low-F3-Sg4.text" = "SONIA JAMES";
+
+/* Class = "UILabel"; text = "Check for new Safelet Firmware updates"; ObjectID = "oyB-KP-K2U"; */
+"oyB-KP-K2U.text" = "Verificar por novas atualizações do Firmware Safelet";
+
+/* Class = "UISegmentedControl"; n6i-Hh-DRB.segmentTitles[0] = "My guardians"; ObjectID = "n6i-Hh-DRB"; */
+"n6i-Hh-DRB.segmentTitles[0]" = "Meus guardiões";
+
+/* Class = "UISegmentedControl"; n6i-Hh-DRB.segmentTitles[1] = "I'm guarding"; ObjectID = "n6i-Hh-DRB"; */
+"n6i-Hh-DRB.segmentTitles[1]" = "Estou protegendo";
+
+/* Class = "UILabel"; text = "Test 5"; ObjectID = "oOa-Az-JpA"; */
+"oOa-Az-JpA.text" = "Teste 5";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "q5T-gc-Xqo"; */
+"q5T-gc-Xqo.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "<titleLabel>"; ObjectID = "q7p-iO-gIY"; */
+"q7p-iO-gIY.text" = "<titleLabel>";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "q8z-fP-5qS"; */
+"q8z-fP-5qS.placeholder" = "Senha";
+
+/* Class = "UILabel"; text = "MainVC"; ObjectID = "qnZ-mY-2W0"; */
+"qnZ-mY-2W0.text" = "PrincipalVC";
+
+/* Class = "UILabel"; text = "Call 911"; ObjectID = "qRf-lS-vfR"; */
+"qRf-lS-vfR.text" = "Ligar para o 190";
+
+/* Class = "UIButton"; normalTitle = "Replay"; ObjectID = "s9y-xK-3JL"; */
+"s9y-xK-3JL.normalTitle" = "Replay";
+
+/* Class = "UITextField"; placeholder = "Repeat new password"; ObjectID = "rLd-fP-LwZ"; */
+"rLd-fP-LwZ.placeholder" = "Repetir nova senha";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "r6Y-Hb-uU6"; */
+"r6Y-Hb-uU6.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Message Message Message Message Message Message Message Message Message Message Message "; ObjectID = "spI-zi-9md"; */
+"spI-zi-9md.text" = "Mensagem Mensagem Mensagem Mensagem Mensagem Mensagem Mensagem Mensagem Mensagem Mensagem Mensagem";
+
+/* Class = "UILabel"; text = "SAFELET GUARDIAN NETWORK"; ObjectID = "teH-7U-W5c"; */
+"teH-7U-W5c.text" = "REDE DE GUARDIÕES SAFELET";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sxF-pg-bf8"; */
+"sxF-pg-bf8.text" = "Marca";
+
+/* Class = "UIViewController"; title = "Guardian Network"; ObjectID = "toc-Bm-8jJ"; */
+"toc-Bm-8jJ.title" = "Rede de Guardiões";
+
+/* Class = "UILabel"; text = "Historic events: OFF\nTap to change"; ObjectID = "uL5-TU-E8y"; */
+"uL5-TU-E8y.text" = "Histórico de eventos: OFF\nSelecione para alterar";
+
+/* Class = "UILabel"; text = "Play Audio"; ObjectID = "udQ-OQ-ctL"; */
+"udQ-OQ-ctL.text" = "Tocar Audio";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "wKE-QG-6gX"; */
+"wKE-QG-6gX.placeholder" = "Número de telefone";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-2"; ObjectID = "wbR-rr-exf"; */
+"wbR-rr-exf.headerTitle" = "Sessão-2";
+
+/* Class = "UILabel"; text = "+1999777111"; ObjectID = "wjc-fV-f4G"; */
+"wjc-fV-f4G.text" = "+1999777111";
+
+/* Class = "UILabel"; text = "Location: 22-38 Calea Dorobantilor, Cluj-Napoca, Cluj"; ObjectID = "wkU-bi-LSM"; */
+"wkU-bi-LSM.text" = "Localização: 22-38 Calea Dorobantilor, Cluj-Napoca, Cluj";
+
+/* Class = "UILabel"; text = "asda"; ObjectID = "wxa-BY-gA9"; */
+"wxa-BY-gA9.text" = "asda";
+
+/* Class = "UINavigationItem"; title = "Edit my email"; ObjectID = "wxR-Nl-4sW"; */
+"wxR-Nl-4sW.title" = "Editar meu email";
+
+/* Class = "UILabel"; text = "YOU ARE NOT\nGUARDING ANYONE"; ObjectID = "xcG-HA-bke"; */
+"xcG-HA-bke.text" = "VOCÊ NÃO É MAIS UM \nGUARDIÃO";
+
+/* Class = "UILabel"; text = "X2Mobile invited you to be guardian 2 minutes ago"; ObjectID = "ywy-Hp-YDq"; */
+"ywy-Hp-YDq.text" = "X2Mobile convidou você para ser um guardião há 2 minutos atrás";
+/* Class = "UILabel"; text = "Log Out"; ObjectID = "64L-cd-Lys"; */
+"64L-cd-Lys.text" = "Sair";
+
+/* Class = "UILabel"; text = "No name"; ObjectID = "9Wd-FL-qe7"; */
+"9Wd-FL-qe7.text" = "No name";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "E0a-Jg-7gb"; */
+"E0a-Jg-7gb.text" = "Apoio";
+
+/* Class = "UILabel"; text = "<phone number label>"; ObjectID = "Zla-Q5-Fj7"; */
+"Zla-Q5-Fj7.text" = "<phone number label>";
+

@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  Safelet
+
+  Created by Alex Motoc on 16/11/2016.
+  Copyright © 2016 X2 Mobile. All rights reserved.
+*/
+
+"NSBluetoothPeripheralUsageDescription" = "This enables the app to communicate with your Safelet bracelet";
+"NSCameraUsageDescription" = "This allows you to take a profile picture, which will be uploaded on our servers";
+"NSContactsUsageDescription" = "We store this information on our servers to enable you to search for Guardians or invite your phone contacts to use Safelet";
+"NSLocationAlwaysUsageDescription" = "We store this information on our servers to enable your Guardians to see where you are in case of an emergency";
+"NSLocationWhenInUseUsageDescription" = "We store this information on our servers to enable your Guardians to see where you are in case of an emergency";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "We store this information on our servers to enable your Guardians to see where you are in case of an emergency";
+"NSMicrophoneUsageDescription" = "This allows the app to start audio recording when you dispatch an alarm. The recording will be uploaded to our servers";
+"NSPhotoLibraryUsageDescription" = "This enables you to select a profile photo from your gallery. The selected image will be uploaded to our servers";
+"NSBluetoothAlwaysUsageDescription" = "This enables the app to communicate with your Safelet bracelet";

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina3_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Load Screen View Controller-->
+        <scene sceneID="DbI-PP-j9E">
+            <objects>
+                <viewController storyboardIdentifier="loadScreenStoryboardID" id="aCT-aI-jif" customClass="LoadScreenViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="EZQ-kA-tyZ"/>
+                        <viewControllerLayoutGuide type="bottom" id="A15-tm-yPC"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="lha-s7-WO6">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash" translatesAutoresizingMaskIntoConstraints="NO" id="Stf-KA-bc1">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <color key="backgroundColor" red="0.62518107891082764" green="0.048646613955497742" blue="0.056596122682094574" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </imageView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" animating="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="FzP-9s-BJC">
+                                <rect key="frame" x="141.5" y="413" width="37" height="37"/>
+                                <color key="color" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Stf-KA-bc1" firstAttribute="leading" secondItem="lha-s7-WO6" secondAttribute="leading" id="1l4-ju-KRM"/>
+                            <constraint firstItem="Stf-KA-bc1" firstAttribute="top" secondItem="EZQ-kA-tyZ" secondAttribute="bottom" id="4yv-H1-ZG4"/>
+                            <constraint firstItem="Stf-KA-bc1" firstAttribute="height" secondItem="lha-s7-WO6" secondAttribute="height" id="7X4-Gb-qqo"/>
+                            <constraint firstItem="A15-tm-yPC" firstAttribute="top" secondItem="FzP-9s-BJC" secondAttribute="bottom" constant="30" id="VKz-TJ-Imh"/>
+                            <constraint firstAttribute="trailing" secondItem="Stf-KA-bc1" secondAttribute="trailing" id="WDD-d8-gwb"/>
+                            <constraint firstItem="FzP-9s-BJC" firstAttribute="centerX" secondItem="lha-s7-WO6" secondAttribute="centerX" id="Xd6-VT-3bZ"/>
+                            <constraint firstItem="A15-tm-yPC" firstAttribute="top" secondItem="Stf-KA-bc1" secondAttribute="bottom" id="wTc-0y-og8"/>
+                            <constraint firstItem="Stf-KA-bc1" firstAttribute="width" secondItem="lha-s7-WO6" secondAttribute="width" id="yi3-fz-tyg"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IAw-0o-05N" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash" width="375" height="667"/>
+    </resources>
+</document>

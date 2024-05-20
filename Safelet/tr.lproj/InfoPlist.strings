@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  Safelet
+
+  Created by Alex Motoc on 16/11/2016.
+  Copyright © 2016 X2 Mobile. All rights reserved.
+*/
+
+"NSBluetoothPeripheralUsageDescription" = "Bu, uygulamanın Safelet bileziğinizle iletişim kurmasını sağlar";
+"NSCameraUsageDescription" = "Bu uygulama içinde bir resim çekmenizi sağlar";
+"NSContactsUsageDescription" = "Bu, Guardians'ı aramanızı veya telefon rehberinizi Safelet'i kullanmaya davet etmenizi sağlar";
+"NSLocationAlwaysUsageDescription" = "Bu, Guardianların acil durumlarda nerede olduğunuzu görmesini sağlar";
+"NSLocationWhenInUseUsageDescription" = "Bu, Guardianların acil durumlarda nerede olduğunuzu görmesini sağlar";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Bu bilgileri Guardians'ınızın acil bir durumda nerede olduğunuzu görmesini sağlamak için sunucularımızda saklarız";
+"NSMicrophoneUsageDescription" = "Bu, bir alarm gönderirken uygulamanın ses kaydını başlatmasına izin verir";
+"NSPhotoLibraryUsageDescription" = "Bu, galerinizden bir fotoğraf seçmenizi sağlar";
+"NSBluetoothAlwaysUsageDescription" = "Bu, uygulamanın Safelet bileziğinizle iletişim kurmasını sağlar";

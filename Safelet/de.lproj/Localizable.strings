@@ -1,0 +1,556 @@
+"STOP_ALARM_REASON_NOT_NEEDED" = "%@ hat den Alarm abgebrochen. Grund: Danke für Ihr Wachsam-Sein. Ich brauche Ihre Hilfe nicht mehr.";
+
+"STOP_ALARM" = "%@ hat den Alarm abgebrochen";
+
+"STOP_ALARM_REASON_ACCIDENTAL" = "%@ hat den Alarm abgebrochen. Grund: Es besteht kein Anlass zur Sorge, ich habe versehentlich den Alarm ausgelöst";
+// push notification strings
+"DISPATCH_ALARM" = "%@ braucht Ihre Hilfe!";
+"CHECK_IN_SHORT" = "%@ hat sich gerade angemeldet";
+"CHECK_IN_LONG" = "%@ hat sich gerade angemeldet: %@";
+"STOP_ALARM_REASON_OTHER" = "%@ hat den Alarm abgebrochen. Grund: %@";
+"CALLED_EMERGENCY_NOTIFICATION" = "%@ hat gerade die Notrufdienste verständigt!";
+"STOP_ALARM_REASON_TEST" = "%@ hat den Alarm abgebrochen. Grund: Es besteht kein Anlass zur Sorge, das war nur ein Probealarm";
+"JOIN_ALARM" = "%@ ist unterwegs";
+"SEND_INVITATION" = "%@ hat Sie eingeladen, ein Beschützer zu werden";
+"ACCEPT_INVITATION" = "%@ hat Ihre Einladung angenommen";
+"REJECT_INVITATION" = "%@ hat Ihre Einladung abgelehnt";
+"CANCEL_INVITATION" = "%@ hat die an Sie versendete Beschützer-Einladung abgebrochen";
+"REMOVE_CONNECTION_GUARDIAN" = "%@ hat Sie als Beschützer entfernt";
+
+"START_FOLLOW_ME" = "%@ braucht deine Hilfe: Ich würde mich sicherer fühlen, wenn du mir zu meinem Ziel folgen würdest. Klicken Sie auf diese Nachricht, um mir zu folgen";
+"STOP_FOLLOW_ME" = "%@ ist sicher am Ziel angekommen. Danke, dass du mein Freund bist!";
+"STOP_FOLLOW_USER" = "%@ hat aufgehört dir zu folgen!";
+"POLICY_NOTIFICATION" = "Please accept the privacy policy!";
+
+// server messages strings
+"CHECK_USER_NOT_FOUND_ERROR" = "Kein Nutzer '%@' wurde gefunden";
+"EXISTS_ALARM_ERROR" = "Es gibt schon einen aktiven Alarm für Nutzer %@. Nur ein aktiver Alarm pro Nutzer ist erlaubt";
+"SERVER_ERROR" = "Serverfehler. Bitte versuchen Sie es noch einmal. %@";
+"REMOVE_CONNECTION_GUARDED" = "%@ beschützt Sie nicht mehr";
+
+"DISPATCH_ALARM_ERROR" = "Beim Absetzen der Alarmmeldung ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"STOP_ALARM_ERROR" = "Beim Anhalten des Alarms ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"IGNORE_ALARM_ERROR" = "Nicht-Berücksichtigung des Alarms fehlgeschlagen. Grund ''%@'. Bitte versuchen Sie es noch einmal";
+"GET_ACTIVE_ALARM_ERROR" = "Beim Suchen des vom Nutzer versendeten aktiven Alarms ist ein Fehler aufgetreten.";
+"GET_ALARM_PARTICIPANTS_ERROR" = "Beim Abrufen der Teilnehmerliste für den Alarm ist ein Fehler aufgetreten";
+"CALLED_EMERGENCY_ERROR" = "Beim Benachrichtigen der Teilnehmer über den Notruf ist ein Fehler aufgetreten";
+"REFRESH_ALARM_ERROR" = "Beim erneuten Auslösen des Alarms ist ein Fehler aufgetreten";
+"GET_ALL_CHUNKS_ERROR" = "Beim Abrufen der Alarmaufzeichnung ist ein Fehler aufgetreten.";
+"GET_LAST_CHUNK_ERROR" = "Beim Abrufen des letzten Aufnahmedatenblocks des Alarms ist ein Fehler aufgetreten.";
+"SAVE_RECORDING_ERROR" = "Beim Speichern des Aufnahmedatenblocks ist ein Fehler aufgetreten. Datenblock konnte dem Alarm nicht zugeordnet werden";
+"MAX_RECORDING_ERROR" = "Die Aufnahme ist beendet, da die maximale Aufnahmekapazität erreicht wurde";
+"LAST_CHECKIN_ERROR" = "Beim Abrufen des letzten Anmeldevorgangs für Nutzer '%@' ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"LAST_CHECKIN_ERROR_2" = "Beim Abrufen des letzten Anmeldevorgangs ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"SEND_CHECKIN_ERROR" = "Beim Senden des Anmeldevorgangs ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"GET_EVENTS_ERROR" = "Beim Abrufen der Ereignisliste ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"GET_FIRMWARE_ERROR" = "Neuestes Firmware-Update konnte nicht abgerufen werden, weil: '%@'. Bitte versuchen Sie es noch einmal";
+"GET_APPVERSION_ERROR" = "Neueste App-Version konnte nicht abgerufen werden, weil: '%@'. Bitte versuchen Sie es noch einmal";
+"GET_PARSE_USERS_ERROR" = "Beim Abgleichen der Kontaktliste mit Safelet-Nutzern ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"INVITATION_ERROR" = "Beim Versenden der Einladung ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"INVITATION_STATUS_ERROR" = "Der vorliegende Antwortstatus '%@' auf die Einladung hin ist ungültig";
+"INVITATION_EXISTENT_ERROR" = "Es gibt bereits eine Verbindung mit Status '%@' zwischen diesen Nutzern";
+"BAD_INVITATION_STATUS_RESPONSE_ERROR" = "Mit Status '%@' ist eine Antwort auf eine Einladung nicht möglich. Sie können nur auf 'aussstehende' Einladungen antworten";
+"RESPOND_INVITATION_ERROR" = "Beim Beantworten der Einladung ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"CANCEL_INVITATION_INVALID_STATUS_ERROR" = "Mit Status '%@' ist ein Abbruch einer Einladung nicht möglich. Sie können nur 'aussstehende' Einladungen abbrechen";
+"CANCEL_INVITATION_ERROR" = "Beim Abbrechen der Einladung ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"CANCEL_INVITATION_INEXISTENT_ERROR" = "Beim Abbrechen der Einladung ist ein Fehler aufgetreten. Die Einladung existiert nicht. Bitte laden Sie noch einmal neu";
+"REMOVE_INVITATION_ERROR" = "Beim Entfernen der Verbindung ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"REMOVE_INVITATION_INEXISTENT_ERROR" = "Beim Entfernen der Verbindung ist ein Fehler aufgetreten. Die Verbindung existiert nicht. Bitte laden Sie noch einmal neu";
+"REMOVE_INVITATION_INVALID_STATUS_ERROR" = "Mit Status '%@' ist ein Entfernen einer Einladung nicht möglich. Sie können nur 'angenommene' Einladungen entfernen";
+"GET_GUARDIANS_ERROR" = "Beim Abrufen der Beschützer ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"GET_GUARDED_ERROR" = "Beim Abrufen der beschützten Nutzer ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"CHECK_USER_ERROR" = "Bei der Suche nach existierenden Nutzern mit Nutzername '%@' ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+"PHONE_DETAILS_ERROR" = "Speichern der Telefon-Info fehlgeschlagen. Grund: %@";
+"BLUETOOTH_NOTIFICATION_ERROR" = "Kenntlichmachen, dass Bluetooth-Verbindung fehlgeschlagen ist, hat nicht funktioniert. Grund: %@";
+"SAVE_USER_EMPTY_EMAIL_ERROR" = "Feld E-Mail darf nicht leer sein";
+"SAVE_USER_EMPTY_USERNAME_ERROR" = "Feld Nutzer darf nicht leer sein";
+"SAVE_USER_EMPTY_NAME_ERROR" = "Feld Name darf nicht leer sein";
+"SAVE_USER_INVALID_NAME_ERROR" = "Ungültiger Name. Er sollte nur Buchstaben und Leerzeichen enthalten und mindestens 3 Zeichen lang sein";
+
+/* app strings */
+"Call 911?" = "Soll die Notrufnummer 911 angerufen werden?";
+
+"SAVE_USER_EXISTING_PHONE_NUMBER" = "Es gibt schon einen Nutzer mit dieser Telefonnummer";
+"GET_RECORDING_ERROR" = "Beim Abrufen der Alarmaufzeichnung ist ein Fehler aufgetreten.";
+"JOIN_ALARM_ERROR" = "Bei der Teilnahme am Alarm ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+
+/* action sheet options */
+"Choose an option:" = "Wählen Sie eine Option:";
+
+/* action sheet Camera option */
+"Camera" = "Kamera";
+
+/* No comment provided by engineer. */
+"OFF" = "AUS";
+
+/* No comment provided by engineer. */
+"ON" = "AN";
+
+/* action sheet Photos option */
+"Photos" = "Fotos";
+
+/* check in */
+" checked in " = "angemeldet";
+
+/* Accept to be a guardian */
+"Accept request" = "Anfrage annehmen";
+
+/* No comment provided by engineer. */
+"A new app version is available" = "Eine neue Version der App ist verfügbar";
+
+/* The actions that are available when selecting a contact */
+"Actions for %@" = "Aktionen für %@";
+
+/* No comment provided by engineer. */
+" needs your help!" = "braucht Ihre Hilfe!";
+
+/* invitation description for EventsInviteTableViewCell */
+" invited you to be his guardian " = "hat Sie eingeladen, Beschützer zu werden";
+
+/* No comment provided by engineer. */
+"Alert" = "Alarmsignal";
+
+/* No comment provided by engineer. */
+"An error occurred while sending the SMS. Please try again" = "Beim Versenden der SMS ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+
+/* No comment provided by engineer. */
+"Are you sure you want to disconnect your Safelet?" = "Sind Sie sicher, dass Sie Ihr Safelet trennen wollen?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to log out of the application?" = "Sind Sie sicher, dass Sie sich von der Anwendung abmelden möchten?";
+
+/* Back */
+"Back" = "Zurück";
+
+/* No comment provided by engineer. */
+"Bluetooth authorization denied" = "Bluetooth-Authorisierung verweigert";
+
+/* No comment provided by engineer. */
+"Bluetooth not supported" = "Bluetooth wird nicht unterstützt";
+
+/* No comment provided by engineer. */
+"Can't retrieve contacts because the permission is denied. Please enable the Contacts permission from the Settings app" = "Abruf der Kontakte nicht möglich, da keine Erlaubnis vorliegt. Bitte aktivieren Sie die Kontakterlaubnis in den App-Einstellungen";
+
+/* No comment provided by engineer. */
+"Bluetooth powered off" = "Bluetooth ausgeschaltet";
+
+/* No comment provided by engineer. */
+"Call 111" = "Rufen Sie 111 an";
+
+/* No comment provided by engineer. */
+"Can't playback while recording. Please stop recording and try again" = "Während der Aufnahme Wiedergabe nicht möglich. Bitte beenden Sie die Aufnahme und versuchen Sie es noch einmal";
+
+/* No comment provided by engineer. */
+"Call 111?" = "Soll die Nummer 111 angerufen werden?";
+
+/* No comment provided by engineer. */
+"Can't soft reset from current Safelet mode: %@ (%ld). The Safelet must be in mode Sleeping (0)" = "Ein Soft Reset aus dem gegenwärtigen Safelet-Modus ist nicht möglich: %1$@ (%2$ld). Das Safelet muss im Ruhemodus (0) sein";
+
+/* No comment provided by engineer. */
+"Cancel Emergency" = "Notruf abbrechen";
+
+/* action sheet Cancel button */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Cancel guardian request" = "Beschützer-Anfrage abbrechen";
+
+/* No comment provided by engineer. */
+"Connect Safelet" = "SOS-Armband anschließen";
+
+/* No comment provided by engineer. */
+"Cellular" = "Mobiltelefon";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Abgebrochen";
+
+/* No comment provided by engineer. */
+"Connected Emergency" = "Verbundener Notfall";
+
+/* No comment provided by engineer. */
+"Current password is invalid" = "Aktuelles Passwort ist ungültig";
+
+/* Other user didn't request current as guardian */
+"Didn't request you as guardian" = "Ich habe Sie nicht als Beschützer angefragt";
+
+/* No comment provided by engineer. */
+"Disable reason:" = "Grund deaktivieren:";
+
+/* No comment provided by engineer. */
+"Disconnect Safelet" = "Safelet trennen";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Verwerfen";
+
+/* No comment provided by engineer. */
+"Disconnected Emergency" = "Notruf getrennt";
+
+/* No comment provided by engineer. */
+"dispatched an alarm" = "hat eine Alarmmeldung abgesetzt";
+
+/* No comment provided by engineer. */
+"Downloading..." = "Herunterladen im Gange…";
+
+/* Register account no email */
+"Email field required" = "Feld E-Mail erforderlich";
+
+/* Email address change success */
+"Email address has been changed." = "Die E-Mail-Adresse wurde geändert.";
+
+/* No comment provided by engineer. */
+"Enter description" = "Geben Sie die Beschreibung ein";
+
+/* No comment provided by engineer. */
+"Error" = "Fehler";
+
+/* No comment provided by engineer. */
+"Failed to notify participants that emergency call was performed" = "Benachrichtung der Teilnehmer fehlgeschlagen, dass ein Notruf ausgelöst wurde";
+
+/* No comment provided by engineer. */
+"Fetching battery level" = "Ermittle Akkuladezustand";
+
+/* No comment provided by engineer. */
+"Firmware revision" = "Überholung der Firmware";
+
+/* No comment provided by engineer. */
+"Firmware Update" = "Firmware-Update";
+
+/* No comment provided by engineer. */
+"Hardware revision" = "Überholung der Hardware";
+
+/* Safelet invitation message */
+"invitation_text_message %@ %@" = "Liebling %@
+Ich fühle mich nicht immer sicher. Ich würde mich viel sicherer fühlen, wenn ich den Menschen, die ich liebe, einen Alarm schicken könnte im Notfall. Sie sind einer dieser Menschen. Willst du mein Wächter werden und meinen Alarm erhalten, wenn ich Hilfe benötige? Bitte installieren Sie die kostenlose Safelet-App.
+iOS: http://bit.ly/Safelet-iOS
+Android: http://bit.ly/Safelet-Android
+Mit Liebe
+%@";
+
+/* No comment provided by engineer. */
+"help is no longer needed" = "Hilfe wird nicht mehr benötigt";
+
+/* No comment provided by engineer. */
+"In order to be fully protected, we strongly recommend that you enable microphone access" = "Um vollkommen beschützt zu sein, empfehlen wir Ihnen dringend, den Mikrofonzugriff zu aktivieren";
+
+/* No comment provided by engineer. */
+"Install" = "Installieren";
+
+/* No comment provided by engineer. */
+"Installing..." = "Installation läuft…";
+
+/* Register account invalid email */
+"Invalid email address" = "Ungültige E-Mail-Adresse";
+
+/* User session has expired */
+"Invalid Session" = "Ungültige Session";
+
+/* No comment provided by engineer. */
+"Historic events: %@\nTap to change" = "Ereignisverlauf: %@\nZum Ändern antippen";
+
+/* Guardian SMS invitation */
+"Invite via SMS" = "Via SMS einladen";
+
+/* Other user accepted to be guardian */
+"Is your guardian" = "ist Ihr Beschützer";
+
+/* No comment provided by engineer. */
+"Manufacturer name" = "Name des Herstellers";
+
+/* No comment provided by engineer. */
+"Lost connection with Safelet" = "Verbindung mit Safelet verloren";
+
+/* No comment provided by engineer. */
+"Microphone permission denied" = "Mikrofon-Erlaubnis nicht erteilt";
+
+/* Maps SDK Demos */
+"Maps SDK Demos" = "Bildet SDK-Demos ab";
+
+/* No comment provided by engineer. */
+"Model number" = "Modellnummer";
+
+/* Register account no name */
+"Name field required" = "Feld Name erforderlich";
+
+/* Name change success */
+"Name has been changed." = "Name wurde geändert.";
+
+/* No comment provided by engineer. */
+"New firmware found: %@. Are you sure you want to install now?" = "Neue Firmware gefunden: %@. Sind Sie sicher, dass diese jetzt installiert werden soll?";
+
+/* help is needed EventsAlarmTableViewCell */
+"NEEDS YOUR HELP!" = "Braucht Ihre Hilfe!";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"No connected Safelet found. Please connect your Safelet first" = "Kein verbundenes Safelet gefunden. Bitte verbinden Sie zuerst Ihr Safelet";
+
+/* No comment provided by engineer. */
+"No Connection" = "Keine Verbindung";
+
+/* No comment provided by engineer. */
+"No events are available" = "Keine Ereignisse verfügbar";
+
+/* No comment provided by engineer. */
+"No internet connection" = "Keine Internetverbindung";
+
+/* No comment provided by engineer. */
+"No reason for disabling alarm" = "Kein Grund für Deaktivierung des Alarms";
+
+/* No comment provided by engineer. */
+"No recording available at the moment. Please try again later" = "Momentan keine Aufnahme verfügbar. Bitte versuchen Sie es später noch einmal";
+
+/* Relation status with a non-registered contact */
+"Not a member" = "Kein Mitglied";
+
+/* No comment provided by engineer. */
+"No relation with Safelet" = "Keine Verbindung mit Safelet";
+
+/* Current user didn't request other as guardian */
+"Not requested as guardian" = "Nicht als Beschützer angefragt";
+
+/* No comment provided by engineer. */
+"Notified participants that emergency call was performed" = "Teilnehmer sind benachrichtigt worden, dass Notruf ausgelöst wurde";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* Some operation performed by the user failed */
+"Operation failed" = "Vorgang nicht durchführbar";
+
+/* No comment provided by engineer. */
+"Other" = "Anderer Grund";
+
+/* No comment provided by engineer. */
+"Options" = "Optionen";
+
+/* Other user is actually current user */
+"Own user" = "Eigener User";
+
+/* No comment provided by engineer. */
+"Password changed successfully. Please log back in using the new password" = "Passwort erfolgreich geändert. Bitte melden Sie sich mit dem neuen Passwort wieder an";
+
+/* Register account no password */
+"Password field required" = "Feld Passwort erforderlich";
+
+/* Register account password too short */
+"Password must be at least 5 characters" = "Passwort muss mindestens 5 Zeichen lang sein";
+
+"Please accept terms and conditions" = "Bitte akzeptieren Sie die Allgemeinen Geschäftsbedingungen";
+
+/* Register account passwords don't match */
+"Passwords do not match" = "Passwörter stimmen nicht überein";
+
+/* No comment provided by engineer. */
+"Permission denied" = "Erlaubnis verweigert";
+
+/* No comment provided by engineer. */
+"Phone contacts" = "Telefonkontakte";
+
+/* Phone number change success */
+"Phone number has been changed." = "Telefonnummer wurde geändert.";
+
+/* Register account no phone number */
+"Phone number field required" = "Feld Telefonnummer erforderlich";
+
+/* No comment provided by engineer. */
+"Play Audio" = "Tonaufnahme abspielen";
+
+/* No comment provided by engineer. */
+"Please charge up your Safelet." = "Bitte laden Sie Ihr Safelet.";
+
+/* No comment provided by engineer. */
+"Please do not worry, I accidentally activated the alarm" = "Kein Grund zur Sorge bitte, ich habe den Alarm versehentlich aktiviert";
+
+/* No comment provided by engineer. */
+"Please do not worry, this was just a test alarm" = "Kein Grund zur Sorge bitte, das war nur ein Probealarm";
+
+/* No comment provided by engineer. */
+"Please select a reason:" = "Wählen Sie bitte einen Grund aus:";
+
+/* Register account no prefix number */
+"Please select a country code" = "Bitte wählen Sie eine Landesvorwahl aus";
+
+/* Reject to be a guardian */
+"Reject request" = "Anfrage ablehnen";
+
+/* Other user rejected to be guardian */
+"Rejected your invitation" = "Hat ihre Einladung abgelehnt";
+
+/* Action sheet option for connections */
+"Remove guardian" = "Beschützer entfernen";
+
+/* No comment provided by engineer. */
+"Remove failed" = "Entfernen fehlgeschlagen";
+
+/* Register account no repeat password */
+"Repeat password required" = "Erforderliches Passwort wiederholen";
+
+/* No comment provided by engineer. */
+"Request as guardian" = "Als Beschützer anfragen";
+
+/* Current user requested other as guardian */
+"Requested as guardian" = "Als Beschützer angefragt";
+
+/* No comment provided by engineer. */
+"Reset" = "Zurücksetzen";
+
+/* Other user requested current as guardian */
+"Requested you as guardian" = "Hat Sie als Beschützer angefragt";
+
+/* No comment provided by engineer. */
+"Resetting..." = "Setze zurück…";
+
+/* No comment provided by engineer. */
+"Safelet connected.\nBattery level" = "Safelet verbunden.\nAkkuladezustand";
+
+/* No comment provided by engineer. */
+"Safelet Firmware Update" = "Safelet Firmware-Update";
+
+/* No comment provided by engineer. */
+"Safelet battery level is" = "Der Akkuladestand des Safelets ist";
+
+/* No comment provided by engineer. */
+"Safelet firmware updated successfully" = "Safelet Firmware erfolgreich aktualisiert";
+
+/* Samples */
+"Samples" = "Muster";
+
+/* No comment provided by engineer. */
+"Search for new firmware?" = "Neue Firmware suchen?";
+
+/* Action sheet option for connections */
+"See last check-in" = "Siehe letzte Anmeldung";
+
+/* No comment provided by engineer. */
+"Session is no longer valid. Please log in again." = "Session ist abgelaufen. Bitte melden Sie sich wieder an.";
+
+/* No comment provided by engineer. */
+"Settings" = "Einstellungen";
+
+/* No comment provided by engineer. */
+"Sleeping" = "Ruhemodus";
+
+/* No comment provided by engineer. */
+"Success" = "Aktion war erfolgreich";
+
+/* Action sheet option for connections
+ Stop guarding this user */
+"Stop guarding" = "Beschützen beenden";
+
+/* No comment provided by engineer. */
+"Stop Audio" = "Tonaufnahme anhalten";
+
+/* No comment provided by engineer. */
+"Successfully invited user to be your guardian and to join Safelet" = "Einladung an Nutzer als Beschützer und Teilnehmer an Safelet erfolgreich";
+
+/* No comment provided by engineer. */
+"Successfully invited user to join Safelet, but failed to invite as guardian because: " = "Einladung an Nutzer als Teilnehmer an Safelet war erfolgreich, aber Einladung als Beschützer fehlgeschlagen, weil:";
+
+/* No comment provided by engineer. */
+"Test" = "Test";
+
+/* No comment provided by engineer. */
+"Thanks for being alert. I do not longer need your help" = "Danke für das Wachsam-Sein. Ich brauche Ihre Hilfe nicht mehr";
+
+/* No comment provided by engineer. */
+"The new password must be different from the old one" = "Das neue Passwort muß sich vom alten Passwort unterscheiden";
+
+/* Message shown to a user that is viewing an alarm from the events section */
+"The dispatcher has cancelled the alarm" = "Der Versender hat den Alarm abgebrochen";
+
+/* No comment provided by engineer. */
+"The push notification is missing required payload data" = "Der Push-Benachrichtigung fehlen erforderliche Nutzlastdaten";
+
+/* No comment provided by engineer. */
+"The Safelet app is not longer connected to a Safelet bracelet. Before you can reconnect you still need to reset the Safelet bracelet" = "Die Safelet-App ist nicht mehr mit dem Safelet-Armband verbunden. Bevor Sie sich wieder verbinden, müssen Sie noch das Safelet-Armband zurücksetzen";
+
+/* No comment provided by engineer. */
+"The Safelet was found. Your mobile phone is now creating a relation with the Safelet." = "Das Safelet wurde gefunden. Ihr Mobilgerät stellt jetzt eine Verbindung mit dem Safelet her.";
+
+/* No comment provided by engineer. */
+"The Safelet bracelet and the Safelet app are not longer connected. They are ready to reconnect" = "Das Safelet-Armband und die Safelet-App sind nicht mehr miteinander verbunden. Sie können jetzt wieder verbunden werden";
+
+/* No comment provided by engineer. */
+"The Safelet's firmware version is already the latest" = "Die Safelet Firmware-Version ist auf dem neuesten Stand";
+
+/* An error occurred while dispatching an alert */
+"There was an error dispatching the alert. Please try again" = "Beim Auslösen des Alarms ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal";
+
+/* No comment provided by engineer. */
+"There was an error while joining the alarm" = "Bei der Teilnahme am Alarm ist ein Fehler aufgetreten";
+
+/* No comment provided by engineer. */
+"this was a test alarm" = "das war ein Probealarm";
+
+/* No comment provided by engineer. */
+"This user never performed a check-in" = "Dieser Nutzer hat noch nie eine Anmeldung durchgeführt";
+
+/* No comment provided by engineer. */
+"There was an error while stopping the alarm" = "Beim Beenden des Alarms ist ein Fehler aufgetreten";
+
+/* No comment provided by engineer. */
+"this was an accidental alarm" = "Das war ein versehentlich ausgelöster Alarm";
+
+/* No comment provided by engineer. */
+"Update" = "Update";
+
+/* Register account duplicate email */
+"User with same email already exists" = "Es gibt bereits einen Nutzer mit gleicher E-Mail";
+
+/* View a push notification in app */
+"View" = "Ansicht";
+
+/* No comment provided by engineer. */
+"Update available" = "Update verfügbar";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* No comment provided by engineer. */
+"WiFi" = "WLAN";
+
+/* No comment provided by engineer. */
+"Warning" = "Warnhinweis";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You accepted the invitation" = "Sie haben die Einladung angenommen";
+
+/* Current user */
+"You" = "Sie";
+
+/* Check-in success */
+"You are checked in. Your guardians have been informed." = "Sie sind angemeldet. Ihre Beschützer wurden informiert.";
+
+/* Current user accepted to be guardian */
+"You are guarding" = "Sie sind aktiver Beschützer";
+
+/* Guardian invitation reject */
+"You have rejected the invitation" = "Sie haben die Einladung abgelehnt";
+
+/* Join Guardian Network with succes */
+"You have successfully joined Safelet Guardian Network" = "Sie sind dem Safelet Beschützer-Netzwerk erfolgreich beigetreten";
+
+/* Guardian invitation accept */
+"You have accepted the invitation" = "Sie haben die Einladung angenommen";
+
+/* Current user rejected to be guardian */
+"You rejected the invitation" = "Sie haben die Einladung abgelehnt";
+
+/* password recover success */
+"You have requested a new password. Please check your e-mail!" = "Sie haben ein neues Passwort angefordert. Bitte überprüfen Sie Ihre E-Mails!";
+
+/* Leave Guardian Network with succes */
+"You have successfully left Safelet Guardian Network" = "Sie haben das Safelet Beschützer-Netzwerk erfolgreich verlassen.";
+
+/* No comment provided by engineer. */
+"Your device isn't configured to send SMS!" = "Dieses Gerät ist nicht dazu konfiguriert, SMS-Nachrichten zu verschicken!";
+
+/* No comment provided by engineer. */
+"Your Safelet is not currently connected. Are you sure you want to remove the relation with your Safelet from your phone only?" = "Ihr Safelet ist im Moment nicht verbunden. Sind Sie sicher, dass Sie ausschließlich die Verbindung Ihres Safelets mit dem Telefon entfernen wollen?";
+
+"Terms & condition accepted." = "Terms & condition accepted successfully.";
